@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
 
   s.author   = { "alexchueh" => "shadow@pixnet.tw" }
   s.homepage = 'https://github.com/alexchueh/LineLabel'
-  s.license  = { :type => 'MIT'}
+  s.license  = { :type => 'MIT', :file => 'LICENSE.txt' }
   s.source   = { :git => 'https://github.com/alexchueh/LineLabel.git', :tag => '1.0.0'}
   s.source_files = '**/*.{h,m}'
 
