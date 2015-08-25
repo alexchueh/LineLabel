@@ -11,13 +11,14 @@ Pod::Spec.new do |s|
                    * Finally, don't worry about the indent, CocoaPods strips it!
                    DESC
 
-  s.author   = { "alexchueh" => "shadow@pixnet.tw" }
   s.homepage = 'https://github.com/alexchueh/LineLabel'
   s.license  = { :type => 'MIT', :file => 'LICENSE.txt' }
+  s.author   = { "alexchueh" => "shadow@pixnet.tw" }
   s.source   = { :git => 'https://github.com/alexchueh/LineLabel.git', :tag => '1.0.0'}
-  s.source_files = '**/*.{h,m}'
-
   s.platform = :ios, '8.0'
-  s.exclude_files = "Classes/Exclude"
+
+  s.source_files = 'LineLabel/LineLabel/*.{h,m}'
+  #s.exclude_files = "Classes/Exclude"
   s.requires_arc = true
+
 end

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3D87A03F-1FCC-4517-85F2-BC7C68F98E0F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LineLabel</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2A56612205247390EA68EB732EA82804A70234FE</key>
+		<string>https://github.com/alexchueh/LineLabel.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LineLabel.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2A56612205247390EA68EB732EA82804A70234FE</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/alexchueh/LineLabel.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2A56612205247390EA68EB732EA82804A70234FE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2A56612205247390EA68EB732EA82804A70234FE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LineLabel</string>
+		</dict>
+	</array>
+</dict>
+</plist>
